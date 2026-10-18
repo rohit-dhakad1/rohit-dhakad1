@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+<!-- 
 <img src="https://komarev.com/ghpvc/?username=rohit-dhakad1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-
+-->
 </div>
 
 ---
@@ -88,16 +88,16 @@
 
 ---
 
-## 📈 Contribution Activity Graph
+<!-- ## 📈 Contribution Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-dhakad1&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
-</div>
-
+</div> 
+-->
 ---
-
+<!--
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -105,7 +105,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=rohit-dhakad1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" width="100%" />
 
 </div>
-
+-->
 ---
 
 ## 🌟 Featured Projects
