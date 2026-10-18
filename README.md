@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<!-- 
+
 <img src="https://komarev.com/ghpvc/?username=rohit-dhakad1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
--->
+
 </div>
 
 ---
@@ -72,6 +72,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/repos/rohit-dhakad1?style=for-the-badge&logo=github&label=Public%20Repositories&color=238636" alt="Public repositories" />
+
 <img src="https://img.shields.io/github/stars/rohit-dhakad1?style=for-the-badge&logo=github&label=Stars%20Received&color=E3B341" alt="Stars received" />
 
 </div>
@@ -85,42 +86,22 @@
 <img src="https://streak-stats.demolab.com/?user=rohit-dhakad1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub contribution streak" width="75%" />
 
 </div>
+
 ---
-
-<!-- ## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-dhakad1&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FF7B72&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
-</div> 
--->
-<!--
----
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-dhakad1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" width="100%" />
-
-</div>
----
--->
-
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/rohit-dhakad1?tab=repositories">
-  <img src="https://img.shields.io/badge/📂_Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/📂_Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
 </a>
 
 </div>
 
 <!--
-To feature individual projects, replace PROJECT_REPO_1 and PROJECT_REPO_2
-with the actual names of your repositories and uncomment this section.
+To display individual project cards, replace the placeholder repository
+names below with your actual repository names and uncomment this section.
 
 <div align="center">
   <a href="https://github.com/rohit-dhakad1/PROJECT_REPO_1">
@@ -142,12 +123,12 @@ with the actual names of your repositories and uncomment this section.
   <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Dhakad-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
 </a>
 <a href="mailto:rohitdhakad.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
 
 <br/><br/>
 
-*“Great things are built one line of code at a time.”* 💙
+*“Sometimes you gotta run before you can walk.”* 💙
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C69,100:58A6FF&height=100&section=footer" alt="Decorative footer" width="100%" />
 
