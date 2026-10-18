@@ -85,7 +85,6 @@
 <img src="https://streak-stats.demolab.com/?user=rohit-dhakad1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub contribution streak" width="75%" />
 
 </div>
-
 ---
 
 <!-- ## 📈 Contribution Activity Graph
@@ -96,8 +95,8 @@
 
 </div> 
 -->
----
 <!--
+---
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -105,8 +104,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=rohit-dhakad1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" width="100%" />
 
 </div>
--->
 ---
+-->
+
 
 ## 🌟 Featured Projects
 
